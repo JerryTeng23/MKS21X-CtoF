@@ -6,7 +6,7 @@ public class CtoFTester{
      to be a double, so they are accurate when being multipled by 5/9 or 9/5.
   */
   public static double celsiusToFahrenheit(double Celsius1){
-    return 1;
+    return 0;
   }
 
   public static double fahrenheitToCelsius(double Fahrenheit2){
