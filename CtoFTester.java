@@ -6,11 +6,13 @@ public class CtoFTester{
      to be a double, so they are accurate when being multipled by 5/9 or 9/5.
   */
   public static double celsiusToFahrenheit(double Celsius1){
-    return 1;
+    double Fahrenheit1 = (Celsisu1 * 9/5) + 32;
+    return Fahrenheit1;
   }
 
   public static double fahrenheitToCelsius(double Fahrenheit2){
-    return 1;
+    double Celsius2 = (Fahrenheit2 - 32) * 5/9;
+    return Celsius2;
   }
 
   public static void main(String[] args){
